@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HistoryList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" NextFilenameNumber="0">
+  <Phrases>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr1.wav" FromContent="true">Hello</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr1.wav" FromContent="true">Hola</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr1.wav" FromContent="true">Bonjour</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr1.wav" FromContent="true">Hallo</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr1.wav" FromContent="true">Ciao</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr2.wav" FromContent="true">Goodbye</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr2.wav" FromContent="true">Adiós</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr2.wav" FromContent="true">Au revoir</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr2.wav" FromContent="true">Bis bald</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr2.wav" FromContent="true">A presto</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr3.wav" FromContent="true">Yes</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr3.wav" FromContent="true">Sí</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr3.wav" FromContent="true">Oui</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr3.wav" FromContent="true">Ja</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr3.wav" FromContent="true">Sì</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr4.wav" FromContent="true">No</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr4.wav" FromContent="true">No</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr4.wav" FromContent="true">Non</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr4.wav" FromContent="true">Nein</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr4.wav" FromContent="true">No</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr5.wav" FromContent="true">Is there a public toilet nearby?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr5.wav" FromContent="true">¿Hay algún aseo público cerca?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr5.wav" FromContent="true">Y a-t-il des toilettes publiques à proximité ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr5.wav" FromContent="true">Gibt es in der Nähe eine öffentliche Toilette?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr5.wav" FromContent="true">C'è un bagno pubblico nei dintorni?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr6.wav" FromContent="true">How much does it cost?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr6.wav" FromContent="true">¿Qué precio tiene?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr6.wav" FromContent="true">Quel est le prix ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr6.wav" FromContent="true">Was kostet das?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr6.wav" FromContent="true">Quanto costa?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr7.wav" FromContent="true">I do not know</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr7.wav" FromContent="true">No sé</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr7.wav" FromContent="true">Je ne sais pas</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr7.wav" FromContent="true">Ich weiß nicht</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr7.wav" FromContent="true">Non lo so</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr8.wav" FromContent="true">Please</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr8.wav" FromContent="true">Por favor</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr8.wav" FromContent="true">S'il vous plaît</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr8.wav" FromContent="true">Bitte</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr8.wav" FromContent="true">Per favore</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr9.wav" FromContent="true">Thank you</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr9.wav" FromContent="true">Gracias</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr9.wav" FromContent="true">Merci</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr9.wav" FromContent="true">Danke</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr9.wav" FromContent="true">Grazie</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr10.wav" FromContent="true">Excuse me</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr10.wav" FromContent="true">Perdone</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr10.wav" FromContent="true">Excusez-moi</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr10.wav" FromContent="true">Entschuldigung</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr10.wav" FromContent="true">Mi scusi</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr11.wav" FromContent="true">I would like to see the menu</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr11.wav" FromContent="true">Me gustaría ver el menú</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr11.wav" FromContent="true">J'aimerais voir le menu</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr11.wav" FromContent="true">Ich möchte gerne die Karte sehen.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr11.wav" FromContent="true">Vorrei vedere il menu</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr12.wav" FromContent="true">I would like to order now</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr12.wav" FromContent="true">Me gustaría pedir ahora</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr12.wav" FromContent="true">Je voudrais commander maintenant</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr12.wav" FromContent="true">Ich möchte jetzt gerne bestellen.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr12.wav" FromContent="true">Vorrei ordinare ora</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr13.wav" FromContent="true">I would like some water.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr13.wav" FromContent="true">Para beber quiero agua.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr13.wav" FromContent="true">Je voudrais de l'eau.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr13.wav" FromContent="true">Ich möchte Wasser, bitte.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr13.wav" FromContent="true">Berrei volentieri acqua.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr14.wav" FromContent="true">I would like some beer.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr14.wav" FromContent="true">Para beber quiero cerveza.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr14.wav" FromContent="true">Je voudrais de la bière.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr14.wav" FromContent="true">Ich möchte Bier, bitte.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr14.wav" FromContent="true">Berrei volentieri birra.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr15.wav" FromContent="true">I would like some white wine.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr15.wav" FromContent="true">Para beber quiero vino blanco.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr15.wav" FromContent="true">Je voudrais du vin blanc.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr15.wav" FromContent="true">Ich möchte Weißwein, bitte.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr15.wav" FromContent="true">Berrei volentieri vino bianco.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr16.wav" FromContent="true">I would like some red wine.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr16.wav" FromContent="true">Para beber quiero vino tinto.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr16.wav" FromContent="true">Je voudrais du vin rouge.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr16.wav" FromContent="true">Ich möchte Rotwein, bitte.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr16.wav" FromContent="true">Berrei volentieri vino rosso.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr17.wav" FromContent="true">Could I have the bill, please?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr17.wav" FromContent="true">¿Podría traerme la cuenta, por favor?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr17.wav" FromContent="true">Serait-il possible d'avoir l'addition ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr17.wav" FromContent="true">Die Rechnung bitte.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr17.wav" FromContent="true">Mi porta il conto per favore?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr18.wav" FromContent="true">That is not what I ordered.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr18.wav" FromContent="true">Eso no es lo que pedí.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr18.wav" FromContent="true">Ce n'est pas ce que j'ai commandé.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr18.wav" FromContent="true">Das habe ich nicht bestellt.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr18.wav" FromContent="true">Non è quello che ho ordinato.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr19.wav" FromContent="true">Waiter!</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr19.wav" FromContent="true">¡Camarero!</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr19.wav" FromContent="true">Garçon !</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr19.wav" FromContent="true">Bedienung!</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr19.wav" FromContent="true">Cameriere!</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr20.wav" FromContent="true">Is there a bank nearby?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr20.wav" FromContent="true">¿Hay algún banco cerca?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr20.wav" FromContent="true">Y a-t-il une banque à proximité ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr20.wav" FromContent="true">Gibt es in der Nähe eine Bank?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr20.wav" FromContent="true">C'è una banca nei dintorni?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr21.wav" FromContent="true">Where is the nearest railway station?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr21.wav" FromContent="true">¿Dónde está la estación de tren más cercana?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr21.wav" FromContent="true">Où se trouve la gare la plus proche ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr21.wav" FromContent="true">Wo ist der nächste Bahnhof?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr21.wav" FromContent="true">Dove si trova la stazione ferroviaria più vicina?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr22.wav" FromContent="true">Which bus do I take to the airport?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr22.wav" FromContent="true">¿Qué bus tomo para ir al aeropuerto?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr22.wav" FromContent="true">Quel bus dois-je prendre pour l'aéroport ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr22.wav" FromContent="true">Welcher Bus fährt zum Flughafen?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr22.wav" FromContent="true">Quale autobus porta all'aeroporto?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr23.wav" FromContent="true">Where is the nearest subway station?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr23.wav" FromContent="true">¿Dónde está la estación de metro más cercana?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr23.wav" FromContent="true">Où se trouve la station de métro la plus proche ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr23.wav" FromContent="true">Wo ist die nächste U-Bahn-Station?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr23.wav" FromContent="true">Dove si trova la stazione della metropolitana più vicina?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr24.wav" FromContent="true">Where is the nearest bus station?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr24.wav" FromContent="true">¿Dónde está la parada de bus más cercana?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr24.wav" FromContent="true">Où se trouve l'arrêt de bus le plus proche ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr24.wav" FromContent="true">Wo ist die nächste Bushaltestelle?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr24.wav" FromContent="true">Dove si trova la stazione degli autobus più vicina?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr25.wav" FromContent="true">When does the train arrive?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr25.wav" FromContent="true">¿A qué hora llega el tren?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr25.wav" FromContent="true">Quand le train arrive-t-il ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr25.wav" FromContent="true">Wann kommt der Zug an?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr25.wav" FromContent="true">Quando arriva il treno?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr26.wav" FromContent="true">When does the train leave?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr26.wav" FromContent="true">¿A qué hora sale el tren?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr26.wav" FromContent="true">Quand le train part-il ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr26.wav" FromContent="true">Wann fährt der Zug ab?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr26.wav" FromContent="true">Quando parte il treno?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr27.wav" FromContent="true">Which platform does the train arrive on?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr27.wav" FromContent="true">¿A qué andén llega el tren?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr27.wav" FromContent="true">Sur quel quai arrive le train ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr27.wav" FromContent="true">Auf welchem Gleis kommt der Zug an?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr27.wav" FromContent="true">A quale binario arriva il treno?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr28.wav" FromContent="true">Which platform does the train leave from?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr28.wav" FromContent="true">¿De qué andén sale el tren?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr28.wav" FromContent="true">De quel quai part le train ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr28.wav" FromContent="true">Von welchem Gleich fährt der Zug ab?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr28.wav" FromContent="true">Da quale binario parte il treno?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr29.wav" FromContent="true">Do I have to change trains?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr29.wav" FromContent="true">¿Tengo que cambiarme de tren?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr29.wav" FromContent="true">Dois-je changer de train ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr29.wav" FromContent="true">Muss ich umsteigen?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr29.wav" FromContent="true">Devo cambiare treno?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr30.wav" FromContent="true">Do you have any rooms available for tonight?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr30.wav" FromContent="true">¿Tiene habitaciones libres para esta noche?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr30.wav" FromContent="true">Avez-vous des chambres disponibles pour cette nuit ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr30.wav" FromContent="true">Haben Sie für heute Abend noch Zimmer frei?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr30.wav" FromContent="true">Ci sono stanze disponibili per stanotte?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr31.wav" FromContent="true">I would like a single room.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr31.wav" FromContent="true">Quiero una habitación individual.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr31.wav" FromContent="true">Je voudrais une chambre simple.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr31.wav" FromContent="true">Ich möchte ein Einzelzimmer.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr31.wav" FromContent="true">Vorrei una singola.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr32.wav" FromContent="true">I would like a double room.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr32.wav" FromContent="true">Quiero una habitación doble.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr32.wav" FromContent="true">Je voudrais une chambre double.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr32.wav" FromContent="true">Ich möchte ein Doppelzimmer.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr32.wav" FromContent="true">Vorrei una doppia.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr33.wav" FromContent="true">Is breakfast included?</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr33.wav" FromContent="true">¿Está incluido el desayuno?</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr33.wav" FromContent="true">Le petit déjeuner est-il compris ?</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr33.wav" FromContent="true">Ist das Frühstück im Preis enthalten?</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr33.wav" FromContent="true">La colazione è inclusa?</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr34.wav" FromContent="true">I would like to reserve a seat.</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr34.wav" FromContent="true">Me gustaría reservar una plaza.</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr34.wav" FromContent="true">Je voudrais réserver une place.</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr34.wav" FromContent="true">Ich möchte einen Platz reservieren.</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr34.wav" FromContent="true">Vorrei prenotare un posto.</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr35.wav" FromContent="true">One</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr35.wav" FromContent="true">Uno</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr35.wav" FromContent="true">Un</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr35.wav" FromContent="true">Eins</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr35.wav" FromContent="true">Uno</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr36.wav" FromContent="true">Two</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr36.wav" FromContent="true">Dos</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr36.wav" FromContent="true">Deux</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr36.wav" FromContent="true">Zwei</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr36.wav" FromContent="true">Due</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr37.wav" FromContent="true">Three</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr37.wav" FromContent="true">Tres</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr37.wav" FromContent="true">Trois</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr37.wav" FromContent="true">Drei</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr37.wav" FromContent="true">Tre</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr38.wav" FromContent="true">Four</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr38.wav" FromContent="true">Cuatro</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr38.wav" FromContent="true">Quatre</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr38.wav" FromContent="true">Vier</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr38.wav" FromContent="true">Quattro</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr39.wav" FromContent="true">Five</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr39.wav" FromContent="true">Cinco</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr39.wav" FromContent="true">Cinq</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr39.wav" FromContent="true">Fünf</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr39.wav" FromContent="true">Cinque</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr40.wav" FromContent="true">Six</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr40.wav" FromContent="true">Seis</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr40.wav" FromContent="true">Six</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr40.wav" FromContent="true">Sechs</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr40.wav" FromContent="true">Sei</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr41.wav" FromContent="true">Seven</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr41.wav" FromContent="true">Siete</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr41.wav" FromContent="true">Sept</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr41.wav" FromContent="true">Sieben</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr41.wav" FromContent="true">Sette</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr42.wav" FromContent="true">Eight</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr42.wav" FromContent="true">Ocho</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr42.wav" FromContent="true">Huit</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr42.wav" FromContent="true">Acht</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr42.wav" FromContent="true">Otto</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr43.wav" FromContent="true">Nine</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr43.wav" FromContent="true">Nueve</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr43.wav" FromContent="true">Neuf</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr43.wav" FromContent="true">Neun</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr43.wav" FromContent="true">Nove</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr44.wav" FromContent="true">Ten</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr44.wav" FromContent="true">Diez</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr44.wav" FromContent="true">Dix</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr44.wav" FromContent="true">Zehn</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr44.wav" FromContent="true">Dieci</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr45.wav" FromContent="true">Twenty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr45.wav" FromContent="true">Veinte</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr45.wav" FromContent="true">Vingt</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr45.wav" FromContent="true">Zwanzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr45.wav" FromContent="true">Venti</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr46.wav" FromContent="true">Twenty-Five</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr46.wav" FromContent="true">Veinticinco</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr46.wav" FromContent="true">Vingt-cinq</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr46.wav" FromContent="true">Fünfundzwanzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr46.wav" FromContent="true">Venticinque</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr47.wav" FromContent="true">Thirty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr47.wav" FromContent="true">Treinta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr47.wav" FromContent="true">Trente</Translation3>   
+        <Translation4 Language="de" WaveFilename="de_phr47.wav" FromContent="true">Dreißig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr47.wav" FromContent="true">Trenta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr48.wav" FromContent="true">Forty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr48.wav" FromContent="true">Cuarenta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr48.wav" FromContent="true">Quarante</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr48.wav" FromContent="true">Vierzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr48.wav" FromContent="true">Quaranta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr49.wav" FromContent="true">Fifty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr49.wav" FromContent="true">Cincuenta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr49.wav" FromContent="true">Cinquante</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr49.wav" FromContent="true">Fünfzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr49.wav" FromContent="true">Cinquanta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr50.wav" FromContent="true">Sixty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr50.wav" FromContent="true">Sesenta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr50.wav" FromContent="true">Soixante</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr50.wav" FromContent="true">Sechzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr50.wav" FromContent="true">Sessanta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr51.wav" FromContent="true">Seventy</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr51.wav" FromContent="true">Setenta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr51.wav" FromContent="true">Soixante-dix</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr51.wav" FromContent="true">Siebzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr51.wav" FromContent="true">Settanta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr52.wav" FromContent="true">Seventy-Five</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr52.wav" FromContent="true">Setenta y cinco</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr52.wav" FromContent="true">Soixante-quinze</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr52.wav" FromContent="true">Fünfundsiebzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr52.wav" FromContent="true">Settantacinque</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr53.wav" FromContent="true">Eighty</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr53.wav" FromContent="true">Ochenta</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr53.wav" FromContent="true">Quatre-vingts</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr53.wav" FromContent="true">Achtzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr53.wav" FromContent="true">Ottanta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr54.wav" FromContent="true">Ninety</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr54.wav" FromContent="true">Noventa</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr54.wav" FromContent="true">Quatre-vingts dix</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr54.wav" FromContent="true">Neunzig</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr54.wav" FromContent="true">Novanta</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr55.wav" FromContent="true">Hundred</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr55.wav" FromContent="true">Cien</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr55.wav" FromContent="true">Cent</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr55.wav" FromContent="true">Hundert</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr55.wav" FromContent="true">Cento</Translation5>
+      </Translations>
+    </Phrase>
+    <Phrase>
+      <Translations>
+        <Translation Language="en" WaveFilename="en_phr56.wav" FromContent="true">Thousand</Translation>
+        <Translation2 Language="es" WaveFilename="es_phr56.wav" FromContent="true">Mil</Translation2>
+        <Translation3 Language="fr" WaveFilename="fr_phr56.wav" FromContent="true">Mille</Translation3>
+        <Translation4 Language="de" WaveFilename="de_phr56.wav" FromContent="true">Tausend</Translation4>
+        <Translation5 Language="it" WaveFilename="it_phr56.wav" FromContent="true">Mille</Translation5>
+      </Translations>
+    </Phrase>
+  </Phrases>
+</HistoryList>
